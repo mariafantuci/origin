@@ -52,6 +52,11 @@ nav {
 }
 
 .logo {
+  font: 700 1.31rem "Poppins", sans-serif;
+  color: var(--title-color);
+}
+span .logo {
+  color: var(--base-color);
 }
 
 .container {
